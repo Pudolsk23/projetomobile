@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tarefa2</string>
+    <string name="descri_o">Descrição</string>
+    <string name="concluida">Concluida</string>
+    <string name="tarefas_pendentes">Tarefas Pendentes</string>
+    <string name="editar_tarefas">Editar tarefas</string>
+    <string name="gerenciador_de_tarefas">Gerenciador de tarefas</string>
+    <string name="excluir">Excluir</string>
+    <string name="titulo">Titulo</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="data_do_vencimento">Data do vencimento</string>
+</resources>

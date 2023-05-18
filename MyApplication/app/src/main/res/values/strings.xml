@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calcule_seu_imc">CALCULE SEU IMC</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="name01">Name</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+</resources>

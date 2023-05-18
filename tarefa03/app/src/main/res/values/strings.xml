@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">hint_edit_tare fa03</string>
+    <string name="descri_o" > hint_edit_decricao</string>
+    <string name="adicionar" > hint_edit_adicionar</string>
+    <string name="concluida" > hint_edit_concluida</string>
+    <string name="data_do_vencimento" > hint_edit_datavencimento</string>
+    <string name="titulo" > hint_edit_titulo</string>
+    <string name="excluir" >hint_edit_exclusive</string>
+    <string name="gerenciador_de_tarefas" >hint_edit_gerenciador</string>
+    <string name="editar_tarefas" >hint_edit_editar</string>
+    <string name="tarefas_pendentes" >hint_edit_pendentes</string>
+    <string name="imagem">hint_edit_IMAGEM</string>
+    <string name="anota_oes">hint_edit_ANOTAÇOES</string>
+    <string name="titulo1">hint_edit_Titulo:</string>
+    <string name="categorizar">Categorizar</string>
+    <string name="NOTACOES">Annotates:</string>
+    <string name="editar">EDITAR</string>
+    <string name="definir_lembrete">DEFINIR LEMBRETE</string>
+    <string name="salvar">SALVAR</string>
+    <string name="excluir1">Excluir</string>
+</resources>
