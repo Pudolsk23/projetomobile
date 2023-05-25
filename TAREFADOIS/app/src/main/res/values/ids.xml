@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonSalvar" type="id" />
+    <item name="buttonFinalizar" type="id" />
+    <item name="editTextData" type="id" />
+    <item name="buttonLimpar" type="id" />
+    <item name="editTextDescricao" type="id" />
+    <item name="editTextNome" type="id" />
+</resources>

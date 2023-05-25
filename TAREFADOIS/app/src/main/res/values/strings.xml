@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TAREFADOIS</string>
+    <string name="buttonSalvar" type="id" />
+    <string name="buttonFinalizar" type="id" />
+    <string name="editTextData" type="id" />
+    <string name="buttonLimpar" type="id" />
+    <string name="editTextDescricao" type="id" />
+    <string name="editTextNome" type="id" />
+</resources>
