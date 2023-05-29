@@ -1,56 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".view.MainActivity">
 
     <EditText
         android:id="@+id/editTextNome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Nome da Tarefa" />
+        android:hint="Nome do item" />
 
     <EditText
-        android:id="@+id/editTextDescricao"
+        android:id="@+id/editTextQuantidade"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/editTextNome"
-        android:layout_marginTop="47dp"
-        android:hint="Descrição" />
+        android:hint="Quantidade" />
 
     <EditText
-        android:id="@+id/editTextData"
+        android:id="@+id/editTextLocal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/editTextDescricao"
-        android:layout_marginTop="54dp"
-        android:hint="Data de Conclusão" />
+        android:hint="Local de compra" />
 
     <Button
         android:id="@+id/buttonLimpar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/editTextData"
-        android:layout_marginTop="15dp"
-        android:backgroundTint="#9C27B0"
         android:text="Limpar" />
 
     <Button
         android:id="@+id/buttonSalvar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/buttonLimpar"
-        android:layout_marginTop="13dp"
-        android:backgroundTint="#9C27B0"
         android:text="Salvar" />
 
     <Button
         android:id="@+id/buttonFinalizar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/buttonSalvar"
-        android:layout_marginTop="9dp"
-        android:backgroundTint="#9C27B0"
         android:text="Finalizar" />
 
-</RelativeLayout>
+    <ListView
+        android:id="@+id/listItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="editTextNome" type="id" />
+    <string name="editTextQuantidade" type="id" />
+    <string name="editTextLocal" type="id" />
+    <string name="listItems" type="id" />
+    <string name="editTextDescricao" type="id" />
+
+
+</resources>
